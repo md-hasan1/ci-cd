@@ -316,4 +316,9 @@ Monitor the workflow progress in the **Actions** tab of your GitHub repository.
 
 ---
 
+#HOST ip
+#USER root
+
+#SSH_PRIVATE_KEY
+
 This guide ensures a smooth deployment process for your Node.js application to DigitalOcean VPS using GitHub Actions. Let the team know if there are any questions or concerns!
